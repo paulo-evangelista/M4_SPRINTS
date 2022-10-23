@@ -61,6 +61,7 @@ int main(){
 }
 
 
+//não feito
 
 // 6 - A função abaixo (que está incompleta) vai "dirigindo" virtualmente um robô 
 // e através de 4 sensores em cada um dos 4 pontos do robo ("Direita", "Esquerda", 
