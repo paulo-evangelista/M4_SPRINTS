@@ -4,6 +4,8 @@
 // link do simulador
 // https://wokwi.com/projects/346419810624602707
 
+//!!!atenção
+// acabei perdendo os comentarios que fiz no codigo. Eles estão no commit "ex semana 3", mas o código lá está desatualizado.
 
 int ldr = 15;
 int leds[4] = {14, 11, 46, 18};
